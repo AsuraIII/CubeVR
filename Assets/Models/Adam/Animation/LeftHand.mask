@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LeftHand
+  m_Mask: 00000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lIndex1
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lIndex1/mc_Ad_lIndex2
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lIndex1/mc_Ad_lIndex2/mc_Ad_lIndex3
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lMid1
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lMid1/mc_Ad_lMid2
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lMid1/mc_Ad_lMid2/mc_Ad_lMid3
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lPinky1
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lPinky1/mc_Ad_lPinky2
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lPinky1/mc_Ad_lPinky2/mc_Ad_lPinky3
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lRing1
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lRing1/mc_Ad_lRing2
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lRing1/mc_Ad_lRing2/mc_Ad_lRing3
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lThumb1
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lThumb1/mc_Ad_lThumb2
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Left
+      Collar/mc_Ad_Left Shoulder/mc_Ad_Left Forearm/mc_Ad_Left Hand/mc_Ad_lThumb1/mc_Ad_lThumb2/mc_Ad_lThumb3
+    m_Weight: 1
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Neck
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Neck/mc_Ad_Head
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Neck/mc_Ad_Head/mc_Ad_lEye
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Neck/mc_Ad_Head/mc_Ad_lowerJaw
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Neck/mc_Ad_Head/mc_Ad_lowerJaw/mc_Ad_tongueBase
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Neck/mc_Ad_Head/mc_Ad_lowerJaw/mc_Ad_tongueBase/mc_Ad_tongue01
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Neck/mc_Ad_Head/mc_Ad_lowerJaw/mc_Ad_tongueBase/mc_Ad_tongue01/mc_Ad_tongue02
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Neck/mc_Ad_Head/mc_Ad_lowerJaw/mc_Ad_tongueBase/mc_Ad_tongue01/mc_Ad_tongue02/mc_Ad_tongue03
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Neck/mc_Ad_Head/mc_Ad_lowerJaw/mc_Ad_tongueBase/mc_Ad_tongue01/mc_Ad_tongue02/mc_Ad_tongue03/mc_Ad_tongue04
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Neck/mc_Ad_Head/mc_Ad_lowerJaw/mc_Ad_tongueBase/mc_Ad_tongue01/mc_Ad_tongue02/mc_Ad_tongue03/mc_Ad_tongue04/mc_Ad_tongue05
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Neck/mc_Ad_Head/mc_Ad_lowerJaw/mc_Ad_tongueBase/mc_Ad_tongue01/mc_Ad_tongue02/mc_Ad_tongue03/mc_Ad_tongue04/mc_Ad_tongue05/mc_Ad_tongueTip
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Neck/mc_Ad_Head/mc_Ad_rEye
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Neck/mc_Ad_Head/mc_Ad_upperJaw
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rIndex1
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rIndex1/mc_Ad_rIndex2
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rIndex1/mc_Ad_rIndex2/mc_Ad_rIndex3
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rMid1
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rMid1/mc_Ad_rMid2
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rMid1/mc_Ad_rMid2/mc_Ad_rMid3
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rPinky1
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rPinky1/mc_Ad_rPinky2
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rPinky1/mc_Ad_rPinky2/mc_Ad_rPinky3
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rRing1
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rRing1/mc_Ad_rRing2
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rRing1/mc_Ad_rRing2/mc_Ad_rRing3
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rThumb1
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rThumb1/mc_Ad_rThumb2
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Abdomen/mc_Ad_Chest/mc_Ad_Right
+      Collar/mc_Ad_Right Shoulder/mc_Ad_Right Forearm/mc_Ad_Right Hand/mc_Ad_rThumb1/mc_Ad_rThumb2/mc_Ad_rThumb3
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Left Thigh
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Left Thigh/mc_Ad_Left Shin
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Left Thigh/mc_Ad_Left Shin/mc_Ad_Left
+      Foot
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Left Thigh/mc_Ad_Left Shin/mc_Ad_Left
+      Foot/mc_Ad_lToe
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Right Thigh
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Right Thigh/mc_Ad_Right Shin
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Right Thigh/mc_Ad_Right Shin/mc_Ad_Right
+      Foot
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Rig/mc_Ad_Hip/mc_Ad_Right Thigh/mc_Ad_Right Shin/mc_Ad_Right
+      Foot/mc_Ad_rToe
+    m_Weight: 0
+  - m_Path: FGC_Male_Char_Adam_Skin
+    m_Weight: 0
