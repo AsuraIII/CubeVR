@@ -5,23 +5,14 @@ using UnityEngine;
 public class Brick : MonoBehaviour
 {
     public int index;
-    // Start is called before the first frame update
+
     void Start()
     {
 
     }
 
-    // Update is called once per frame
     void Update()
     {
 
     }
-
-    //private void OnCollisionEnter(Collision collision)
-    //{
-    //    if (collision.transform.tag == "Monster")
-    //    {
-    //        collision.transform.parent = this.transform;
-    //    }
-    //}
 }
